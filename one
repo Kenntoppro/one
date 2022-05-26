@@ -1,0 +1,38 @@
+tir = int(input('Введите номер месяца: '))
+rib = int(input('Введите день: '))
+qw = 1
+qe = 2
+qr = 3
+qt = 4
+qy = 5
+qu = 6
+qi = 7
+qo = 8
+qp = 9
+qa = 10
+qs = 11
+qd = 12
+if tir == qw:
+  print('зима')
+elif tir == qe:
+  print('зима')
+elif tir == qr:
+  print('весна')
+elif tir == qt:
+  print('весна')
+elif tir == qy:
+  print('весна')
+elif tir == qu:
+  print('лето')
+elif tir == qi:
+  print('лето')
+elif tir == qo:
+  print('лето')
+elif tir == qp:
+  print('осень')
+elif tir == qa:
+  print('осень')
+elif tir == qs:
+  print('осень')
+elif tir == qd:
+  print('зима')
